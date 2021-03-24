@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-img src="https://i.ibb.co/B2wx1tn/Carmela-Guida-Aquilante-1.png" alt="Carmela-Guida-Aquilante-1" border="0">
+<img src="https://i.ibb.co/B2wx1tn/Carmela-Guida-Aquilante-1.png" alt="Carmela-Guida-Aquilante-1" border="0">
