@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.ibb.co/3YSCCn8/Boost-your-brand.png" alt="Boost-your-brand" border="0">
+<img src="https://i.ibb.co/hdYpV66/Carmela-Guida-Aquilante.png" alt="Carmela-Guida-Aquilante" border="0">
